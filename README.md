@@ -9,8 +9,8 @@ Download the file in your terminal, open it with a code editor and run it.
 
 None
 
-```
-## Built With:
-[JavaScript]
-[HTML5]
-[CSS3]
+Built With: 🛠️
+
+  [JavaScript]
+  [HTML5]
+  [CSS3]
